@@ -1,0 +1,26 @@
+﻿Country,ETF_name,ETF_Yahoo_Ticker,Country_Yahoo_Ticker
+Australia,iShares S&P/ASX 200 ETF,IOZ.AX,^AXJO
+Brazil,iShares MSCI Brazil ETF,EWZ,^BVSP
+Canada,iShares S&P/TSX 60 ETF,XIU,^GSPTSE
+China,iShares China Large-Cap ETF,FXI,^SSEC
+France,iShares MSCI France ETF,EWQ,^FCHI
+Germany,iShares MSCI Germany ETF,EWG,^GDAXI
+Hong Kong,iShares MSCI Hong Kong ETF,EWH,^HSI
+Italy,iShares MSCI Italy ETF,EWI,^FTSEMIB
+India,iShares MSCI India ETF,INDA,^BSESN
+Israel,iShares MSCI Israel ETF,EIS,^TA35
+Japan,iShares MSCI Japan ETF,EWJ,^N225
+Korea,iShares MSCI Korea ETF,EWY,^KS11
+Mexico,iShares MSCI Mexico ETF,EWW,^MXX
+Netherlands,iShares MSCI Netherlands ETF,EWN,^AEX
+Poland,iShares MSCI Poland ETF,EPOL,^WIG20
+Russia,iShares MSCI Russia ETF,ERUS,^RTS
+Singapore,iShares MSCI Singapore ETF,EWS,^STI
+South Africa,iShares MSCI South Africa ETF,EZA,^J203
+Spain,iShares MSCI Spain ETF,EWP,^IBEX
+Sweden,iShares MSCI Sweden ETF,EWD,^OMX
+Switzerland,iShares MSCI Switzerland ETF,EWL,^SSMI
+Taiwan,iShares MSCI Taiwan ETF,EWT,^TWII
+Turkey,iShares MSCI Turkey ETF,TUR,^XU100
+UK,iShares MSCI United Kingdom ETF,EWU,^FTSE
+USA,SPDR S&P 500 ETF,SPY,^GSPC
